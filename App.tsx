@@ -151,25 +151,25 @@ export default function App() {
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
       src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
-    }
+    },
     {
       category: "Long/Short Form Videos"
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
       src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
-    }
+    },
     {
       category: "Corporate Videos"
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
       src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
-    }
+    },
     {
       category: "Corporate Videos"
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
       src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
-    }
+    },
     {
       category: "Corporate Videos"
       title: "Visual Journey",
