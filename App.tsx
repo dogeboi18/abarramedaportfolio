@@ -123,26 +123,55 @@ export default function App() {
 
   const videoProjects = [
     {
+      category: "Long/Short Form Videos"
       title: "Cinematic Rhythm",
       description: "Music Video • Direction & Pacing",
       src: "https://vimeo.com/1168034321?fl=ip&fe=ec"
     },
     {
+      category: "Long/Short Form Videos"
       title: "Brand Narrative",
       description: "Commercial • Visual Storytelling",
       src: "https://assets.mixkit.co/videos/preview/mixkit-glacier-river-with-clear-water-at-the-foot-of-the-1229-large.mp4"
     },
     {
+      category: "Long/Short Form Videos"
       title: "Documentary Soul",
       description: "Short Film • Character Development",
       src: "https://assets.mixkit.co/videos/preview/mixkit-hands-holding-a-small-cup-of-hot-coffee-4100-large.mp4"
     },
     {
+      category: "Long/Short Form Videos"
       title: "Dynamic Motion",
       description: "Sport • High Intensity Pacing",
       src: "https://assets.mixkit.co/videos/preview/mixkit-waves-in-the-ocean-at-sunset-1218-large.mp4"
     },
     {
+      category: "Long/Short Form Videos"
+      title: "Visual Journey",
+      description: "Travel • Narrative Flow",
+      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+    }
+    {
+      category: "Long/Short Form Videos"
+      title: "Visual Journey",
+      description: "Travel • Narrative Flow",
+      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+    }
+    {
+      category: "Corporate Videos"
+      title: "Visual Journey",
+      description: "Travel • Narrative Flow",
+      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+    }
+    {
+      category: "Corporate Videos"
+      title: "Visual Journey",
+      description: "Travel • Narrative Flow",
+      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+    }
+    {
+      category: "Corporate Videos"
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
       src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
