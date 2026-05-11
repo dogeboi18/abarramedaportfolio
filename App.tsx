@@ -126,7 +126,7 @@ export default function App() {
       category: "Long/Short Form Videos",
       title: "Cinematic Rhythm",
       description: "Music Video • Direction & Pacing",
-      src: "https://vimeo.com/1168034321?fl=ip&fe=ec"
+      src: "https://vimeo.com/1168030393?share=copy&fl=sv&fe=ci"
     },
     {
       category: "Long/Short Form Videos",
