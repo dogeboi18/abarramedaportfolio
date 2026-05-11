@@ -141,6 +141,11 @@ export default function App() {
       title: "Dynamic Motion",
       description: "Sport • High Intensity Pacing",
       src: "https://assets.mixkit.co/videos/preview/mixkit-waves-in-the-ocean-at-sunset-1218-large.mp4"
+    },
+    {
+      title: "Visual Journey",
+      description: "Travel • Narrative Flow",
+      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
     }
   ];
 
