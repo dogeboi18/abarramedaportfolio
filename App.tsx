@@ -125,7 +125,7 @@ export default function App() {
     {
       title: "Cinematic Rhythm",
       description: "Music Video • Direction & Pacing",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-forest-stream-in-the-sunlight-529-large.mp4"
+      src: "https://vimeo.com/1168034321?fl=ip&fe=ec"
     },
     {
       title: "Brand Narrative",
