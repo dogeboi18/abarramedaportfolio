@@ -126,7 +126,7 @@ export default function App() {
       category: "Long/Short Form Videos",
       title: "Cinematic Rhythm",
       description: "Music Video • Direction & Pacing",
-      src: "public/assets/car_edit.mp4"
+      src: "public/assets/CarEdit.mp4"
     },
     {
       category: "Long/Short Form Videos",
