@@ -132,7 +132,7 @@ export default function App() {
       category: "Long/Short Form Videos",
       title: "Brand Narrative",
       description: "Commercial • Visual Storytelling",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-glacier-river-with-clear-water-at-the-foot-of-the-1229-large.mp4"
+      src: "https://player.vimeo.com/video/1164346802"
     },
     {
       category: "Long/Short Form Videos",
