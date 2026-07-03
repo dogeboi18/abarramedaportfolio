@@ -138,43 +138,43 @@ export default function App() {
       category: "Long/Short Form Videos",
       title: "Documentary Soul",
       description: "Short Film • Character Development",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-hands-holding-a-small-cup-of-hot-coffee-4100-large.mp4"
+      src: "/assets/Marketing.mp4"
     },
     {
       category: "Long/Short Form Videos",
       title: "Dynamic Motion",
       description: "Sport • High Intensity Pacing",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-waves-in-the-ocean-at-sunset-1218-large.mp4"
+      src: "/assets/MontageSample.mp4"
     },
     {
       category: "Long/Short Form Videos",
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+      src: "/assets/PromotionalUnboxing.mp4"
     },
     {
       category: "Long/Short Form Videos",
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+      src: "/assets/Sample1.mp4"
     },
     {
       category: "Corporate Videos",
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+      src: "/assets/YepSmall).mp4"
     },
     {
       category: "Corporate Videos",
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+      src: "/assets/Goodvibes-1.mp4"
     },
     {
       category: "Corporate Videos",
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
-      src: "https://assets.mixkit.co/videos/preview/mixkit-stars-in-the-night-sky-shining-4467-large.mp4"
+      src: "/assets/Afterpartyshort.mp4"
     }
   ];
 
