@@ -138,7 +138,7 @@ export default function App() {
       category: "Long/Short Form Videos",
       title: "Documentary Soul",
       description: "Short Film • Character Development",
-      src: "/assets/Marketing.mp4"
+      src: "/assets/Afterpartyshort.mp4"
     },
     {
       category: "Long/Short Form Videos",
@@ -169,12 +169,6 @@ export default function App() {
       title: "Visual Journey",
       description: "Travel • Narrative Flow",
       src: "/assets/Goodvibes-1.mp4"
-    },
-    {
-      category: "Corporate Videos",
-      title: "Visual Journey",
-      description: "Travel • Narrative Flow",
-      src: "/assets/Afterpartyshort.mp4"
     }
   ];
 
