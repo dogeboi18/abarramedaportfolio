@@ -226,15 +226,30 @@ export default function App() {
           </div>
         </section>
 
-        {/* WORK SECTION: AI APPS (TEMPLATE) */}
+        {/* WORK SECTION: AI APPS */}
         <section id="ai-apps" className="py-32 px-6 max-w-7xl mx-auto">
           <SectionHeader title="AI Apps" subtitle="02 / Future Tech Explorations" />
-          <div className="h-[450px] bg-[#121212] border border-dashed border-white/10 flex items-center justify-center group hover:border-white/30 transition-all duration-700">
-            <div className="text-center group-hover:scale-105 transition-transform duration-700">
-               <div className="text-[10px] uppercase tracking-[0.5em] text-white/20">Future Content / AI Apps</div>
-               <div className="mt-4 h-[1px] w-12 bg-white/10 mx-auto transition-all group-hover:w-24 group-hover:bg-white/40"></div>
+          <a 
+            href="https://agricultural-o2c-portal-199821706978.asia-southeast1.run.app" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="block w-full overflow-hidden border border-white/10 group hover:border-white/30 transition-all duration-700 relative bg-[#121212]"
+          >
+            {/* The user needs to upload the image they provided into the public folder as ai-app-banner.png */}
+            <img 
+              src="/ai-app-banner.jpg" 
+              alt="Agricultural B2B O2C System"
+              className="w-full h-auto object-cover opacity-80 group-hover:opacity-100 group-hover:scale-[1.02] transition-all duration-700"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end p-8">
+               <h3 className="text-white text-2xl font-light tracking-widest uppercase flex items-center gap-3">
+                 Agricultural B2B O2C System <ArrowUpRight size={20} />
+               </h3>
+               <p className="text-white/60 text-xs font-sans tracking-[0.2em] uppercase mt-2">
+                 Benguet & Angat Buhay Cooperation
+               </p>
             </div>
-          </div>
+          </a>
         </section>
 
         {/* WORK SECTION: UX DESIGNS (TEMPLATE) */}
