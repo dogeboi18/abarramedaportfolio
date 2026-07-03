@@ -270,7 +270,7 @@ export default function App() {
               <h2 className="text-6xl md:text-7xl font-light mb-12 italic tracking-tighter text-white">Vision.</h2>
               <div className="aspect-[4/5] overflow-hidden bg-zinc-900 border border-white/10 grayscale">
                 <img 
-                  src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800" 
+                  src="/assets/aronbarrameda.PNG" 
                   alt="Aron Barrameda" 
                   className="w-full h-full object-cover opacity-50 contrast-125"
                 />
@@ -284,9 +284,9 @@ export default function App() {
                 </p>
                 <div className="h-[1px] w-full bg-white/5" />
                 <p className="text-white/40 font-sans leading-loose tracking-wider text-sm max-w-xl">
-                  My journey is defined by a precision-first approach to digital landscapes. Every commercial narrative I build is 
-                  a result of years perfecting the rhythmic heartbeat of visual experience. Currently focusing on the synergy 
-                  between AI workflows and cinematic aesthetics.
+                  Aron is a video editor with a strong eye for storytelling, pacing, and visual clarity. He specializes in transforming raw footage into engaging, purpose-driven content through clean cuts, rhythm-based edits, and thoughtful visual flow.
+                  His work reflects a balance between creativity and structure, ensuring each video communicates its message clearly while maintaining a polished, professional look. This portfolio showcases selected projects that highlight his editing style, attention to detail, and passion for visual storytelling. 
+                  If you want to get know more of him, kindly let him know by sending a message from the email below.
                 </p>
               </div>
               
