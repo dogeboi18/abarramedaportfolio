@@ -237,7 +237,7 @@ export default function App() {
           >
             {/* The user needs to upload the image they provided into the public folder as ai-app-banner.png */}
             <img 
-              src="/ai-app-banner.png" 
+              src="/assets/ai-app-banner.png" 
               alt="Agricultural B2B O2C System"
               className="w-full h-auto object-cover opacity-80 group-hover:opacity-100 group-hover:scale-[1.02] transition-all duration-700"
             />
