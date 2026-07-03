@@ -132,7 +132,7 @@ export default function App() {
       category: "Long/Short Form Videos",
       title: "Brand Narrative",
       description: "Commercial • Visual Storytelling",
-      src: "https://player.vimeo.com/video/1164346802?background=1"
+      src: "/assets/Otyep.mp4"
     },
     {
       category: "Long/Short Form Videos",
